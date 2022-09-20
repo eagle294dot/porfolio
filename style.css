@@ -14,7 +14,14 @@
 
 .left {
     border: 1px solid green;
-    width: 50%;
+    width: 75%;
+}
+
+.pleft {
+    text-align: center;
+   
+   
+
 }
 
 .right {
@@ -44,3 +51,9 @@ body {
 .space {
     margin: -15px 0
 }
+
+.rightheader{
+    font-size: 16px;
+    text-align: center;
+}
+
